@@ -1,7 +1,6 @@
-# PORTFOLIO-GitHub
 # 🌐 Personal Portfolio Website — Bhavya Patel
 
-Welcome to my **personal portfolio website**, built using HTML, CSS, and hosted with GitHub Pages.  
+Welcome to my **personal portfolio website**, built with HTML and CSS and hosted using **GitHub Pages**.  
 This website showcases my academic achievements, technical skills, projects, and certificates.
 
 🔗 **Live Website:** https://bhavya-patel-glitch.github.io  
@@ -11,80 +10,78 @@ This website showcases my academic achievements, technical skills, projects, and
 
 ## 👤 About Me
 
-Hi! I'm **Bhavya Patel**, a passionate Computer Science engineering student exploring web development, problem-solving, and modern technologies.  
-This portfolio highlights my journey, skills, and technical growth.
+Hi! I'm **Bhavya Patel**, a passionate Computer Science Engineering student exploring web development, robotics, and modern technologies.  
+This portfolio highlights my journey as a learner, creator, and problem-solver.
 
-![My Photo](WhatsApp Image 2025-11-16 at 11.24.27 PM.jpeg)
-*(Replace this with your real photo — upload to `assets/images/` and rename.)*
+### 📸 Profile Photo  
+*(Replace with your own image located in `assets/images/`)*  
+`assets/images/profile.jpeg`
 
 ---
 
-## 🏠 Website Pages Overview
+## 🏠 Website Sections
 
 ### **1. Home Page**
 Includes:
-- Your self-introduction  
-- Your profile photo  
-- A tagline  
-- Navigation links to all pages  
+- Introduction  
+- Profile Photo  
+- Tagline  
+- Navigation links  
 
 ---
 
-## 🛠 Skills & Projects Page
+## 🛠 Skills & Projects
 
 ### 🔧 Technical Skills  
-You can update skills inside `skills-projects.html`.  
-Here are the default ones (edit as needed):
+Update these in `skills-projects.html`:
 
 - HTML  
 - CSS  
 
+(You may add Python, C, C++, JavaScript, etc.)
 
 ---
 
-## 📂 Projects  
-Below are placeholders.  
-👉 **You MUST replace these with your real project names, descriptions, images, and repository links.**
+## 📂 Projects
 
-### **🔸 Project 1**  
-**Project Name:** *Line following Robot *  
-![Project 1](Screenshot 2025-11-19 at 10.07.28 PM)  
-*Add your project screenshot in `assets/images/` and replace the image name.*  
-**Description:** *The Line Following Robot is an autonomous robotic vehicle designed to detect and follow a predefined path using infrared (IR) sensors. The robot continuously reads the contrast between a black line and a white surface and adjusts its movement accordingly. This project demonstrates the fundamentals of embedded systems, robotics, and control algorithms using Arduino.
-Skills Demonstrated
+### 🔸 **Project 1 — Line Following Robot**  
+*(Add your real screenshot inside `assets/images/`)*  
+`assets/images/robot.png`
 
-Arduino programming
+**Description:**  
+The **Line Following Robot** is an autonomous vehicle that follows a black line using IR sensors.  
+It demonstrates basic robotics, Arduino programming, and embedded system concepts.
 
-Sensor calibration and signal processing
+**Skills Used:**  
+- Arduino C/C++  
+- IR Sensor Calibration  
+- Motor Driver (L298N) Interfacing  
+- Control Algorithm Logic  
+- Hardware Debugging  
 
-Motor driver interfacing
-
-Embedded systems and robotics fundamentals
-
-Logical problem-solving and hardware debugging*  
-*🔗 **GitHub Repository:** *Add your project link here**
-
-
+🔗 GitHub Repository (add link)
 
 ---
 
-## 📜 Certificates Page
+## 📜 Certificates
 
-Upload your certificate photos in:
-
-Then update the image names below.
+Upload certificate images into `assets/images/` and update your HTML pages.
 
 ### **Track Race Certificate**
-![Track Race Certificate](Screenshot 2025-11-19 at 10.11.44 PM)  
-*(Replace with your actual certificate image.)*
+`assets/images/certificate.png`
+
+---
+
 ## 📬 Contact Me
 
-### 🌐 Social Profiles
+### 🌐 Social Profiles  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bhavya-patel-a8a597372/)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/bhavya-patel-glitch)  
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:your-email@example.com)
 
-[![LinkedIn](https://www.linkedin.com/in/bhavya-patel-a8a597372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/bhavya-patel-glitch)
-*[![Email](https://skillicons.dev/icons?i=gmail)](mailto:your-email@example.com)*
+---
 
+### ⭐ Thank you for visiting my portfolio!
 
 
 
