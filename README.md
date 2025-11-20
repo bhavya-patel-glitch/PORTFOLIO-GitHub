@@ -11,7 +11,7 @@ This website showcases my academic achievements, technical skills, projects, and
 ## 👤 About Me
 
 Hi! I'm **Bhavya Patel**, a passionate Computer Science Engineering student exploring web development, robotics, and modern technologies.  
-This portfolio highlights my journey as a learner, creator, and problem-solver.
+This portfolio highlights my journey as a learner, creator, and problem-solver and join indian cyber army.
 
 ### 📸 Profile Photo
 ![My Photo](WhatsApp Image 2025-11-16 at 11.24.27 PM.jpeg)
@@ -36,9 +36,6 @@ Update these in `skills-projects.html`:
 - HTML  
 - CSS  
 
-(You may add Python, C, C++, JavaScript, etc.)
-
----
 
 ## 📂 Projects
 
@@ -58,17 +55,16 @@ It demonstrates basic robotics, Arduino programming, and embedded system concept
 
 🔗 GitHub Repository (add link)
 
----
 
-## 📜 Certificates
 
-Upload certificate images into `assets/images/` and update your HTML pages.
+
+
 
 ### Track Race Certificate
 ![Certificate](Screenshot 2025-11-19 at 10.11.44 PM (1).png)
 
 
----
+
 
 ## 📬 Contact Me
 
