@@ -13,10 +13,8 @@ This website showcases my academic achievements, technical skills, projects, and
 Hi! I'm **Bhavya Patel**, a passionate Computer Science Engineering student exploring web development, robotics, and modern technologies.  
 This portfolio highlights my journey as a learner, creator, and problem-solver.
 
-### 📸 Profile Photo  
-*(Replace with your own image located in `assets/images/`)*  
-`assets/images/profile.jpeg`
-
+### 📸 Profile Photo
+![My Photo](WhatsApp Image 2025-11-16 at 11.24.27 PM.jpeg)
 ---
 
 ## 🏠 Website Sections
@@ -44,9 +42,8 @@ Update these in `skills-projects.html`:
 
 ## 📂 Projects
 
-### 🔸 **Project 1 — Line Following Robot**  
-*(Add your real screenshot inside `assets/images/`)*  
-`assets/images/robot.png`
+### 🔸 Project 1 — Line Following Robot
+![Project Screenshot](Screenshot 2025-11-19 at 10.07.28 PM)
 
 **Description:**  
 The **Line Following Robot** is an autonomous vehicle that follows a black line using IR sensors.  
@@ -67,8 +64,9 @@ It demonstrates basic robotics, Arduino programming, and embedded system concept
 
 Upload certificate images into `assets/images/` and update your HTML pages.
 
-### **Track Race Certificate**
-`assets/images/certificate.png`
+### Track Race Certificate
+![Certificate](Screenshot 2025-11-19 at 10.11.44 PM)
+
 
 ---
 
