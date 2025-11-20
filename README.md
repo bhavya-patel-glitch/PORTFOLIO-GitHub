@@ -43,7 +43,7 @@ Update these in `skills-projects.html`:
 ## 📂 Projects
 
 ### 🔸 Project 1 — Line Following Robot
-![Project Screenshot](Screenshot 2025-11-19 at 10.07.28 PM)
+![Project Screenshot](Screenshot 2025-11-19 at 10.07.28 PM.png)
 
 **Description:**  
 The **Line Following Robot** is an autonomous vehicle that follows a black line using IR sensors.  
@@ -65,7 +65,7 @@ It demonstrates basic robotics, Arduino programming, and embedded system concept
 Upload certificate images into `assets/images/` and update your HTML pages.
 
 ### Track Race Certificate
-![Certificate](Screenshot 2025-11-19 at 10.11.44 PM)
+![Certificate](Screenshot 2025-11-19 at 10.11.44 PM (1).png)
 
 
 ---
