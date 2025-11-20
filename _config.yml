@@ -4,5 +4,6 @@ title: "Bhavya Patel — Portfolio"
 description: "Pursuing Computer Science and Engineering"
 
 plugins:
-  -jekyll-remote-theme
+  - jekyll-remote-theme
+
 
